@@ -24,7 +24,7 @@
 
 .button::before{
     content: "";
-    background-color: #1f1f1f1f;
+    background-color: #1f1f1f;
     position: absolute;
     top: 0;
     left: 0;
